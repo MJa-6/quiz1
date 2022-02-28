@@ -167,7 +167,7 @@ Explain what will happen when we run the following commands:
 
 You need to specify where ``HEAD``, ``master`` and ``experiment`` will be after these commands, and you need to sketch theupdated history. You may add a graph as an answer in a folder named as follows: ``firstName_LastName_graphics``.
 Answer:
-
+all of them are pointing at C4
 
 Question 10:
 -----------
