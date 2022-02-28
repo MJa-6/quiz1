@@ -166,6 +166,8 @@ Explain what will happen when we run the following commands:
 4. git merge experiment
 
 You need to specify where ``HEAD``, ``master`` and ``experiment`` will be after these commands, and you need to sketch theupdated history. You may add a graph as an answer in a folder named as follows: ``firstName_LastName_graphics``.
+Answer:
+
 
 Question 10:
 -----------
@@ -182,7 +184,7 @@ Exercise 11:
 -----------
 To create a new branch and checkout to it we can use:
 
-- [ ] git checkout -b "newbranch"
+- [.] git checkout -b "newbranch"
 - [ ] git branch -v
 - [ ] git checkout "newbranch"
 - [ ] git checkout master
