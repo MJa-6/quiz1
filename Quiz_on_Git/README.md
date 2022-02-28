@@ -177,7 +177,7 @@ Suppose the following scenario: in the working directory, everything in up-to-da
 ``git commit -m "added code.py" -a``
 
 Is this correct? Explain why.
-yes, since this message can add and commit in the same command thus it will be commited to be under version control, in addition when i use git log it will show me the commits ive done and the last one will contain this message that is "added code.py" which is the newest file
+no because it will be applied on modified files not new files
 
 
 Exercise 11:
